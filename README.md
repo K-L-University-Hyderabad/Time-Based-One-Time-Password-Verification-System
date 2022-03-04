@@ -19,7 +19,10 @@ Unlike with HOTP, OTPs are generated using the number of time steps from Unix ti
 
 So when considering TOTP vs HOTP the obvious choice is TOTP, simply because it is more secure.
 
-TOTP:
+
+
+Time-Based One Time Password (TOTP):
+
 •	TOTP stands for Time-Based OTP Verification.
 
 •	TOTP is Token Based where the TOTP token has a secret key and the current time value.
