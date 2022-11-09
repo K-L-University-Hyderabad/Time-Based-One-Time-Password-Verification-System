@@ -1,4 +1,6 @@
 # Time-Based-One-Time-Password-Verification-System
+Note: The whole description of the project (code and outputs) is in TEAM-2_Review-4.pdf 
+
 During the Covid-19 pandemic, almost all jobs and activities to be limited, relying on the internet network. Data security in an internet network is most important and needs to be a concern for internet users.
 
 The internet network is a public network, which is vulnerable to security attacks. Attacks may occur to retrieve user data in the form of a username and password.
