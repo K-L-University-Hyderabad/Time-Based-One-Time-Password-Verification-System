@@ -1,5 +1,5 @@
 # Time-Based-One-Time-Password-Verification-System
-**Note: The whole description of the project (code and outputs) is in TEAM-2_Review-4.pdf **
+**Note: The whole description of the project (code and outputs) is in TEAM-2_Review-4.pdf file **
 
 During the Covid-19 pandemic, almost all jobs and activities to be limited, relying on the internet network. Data security in an internet network is most important and needs to be a concern for internet users.
 
